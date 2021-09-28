@@ -1,1 +1,1 @@
-# mern-project
+# mern-app
